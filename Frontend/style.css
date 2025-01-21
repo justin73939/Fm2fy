@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f7f7f7;
+  }
+  
+  header {
+    background-color: #1db954; /* Spotify green */
+    color: white;
+    padding: 20px;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  button {
+    background-color: #1db954;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #14833b;
+  }
+  
+  #results {
+    margin-top: 20px;
+  }
