@@ -43,3 +43,4 @@ if __name__ == "__main__":
 # need to figure out how to add 3 missed tracks (lonerism trakcs; maybe fuzzy matching? but probably simpler)
 # after that, we finally, start work on deployment
 # integrate git tracking
+#   just checking if I can commit right
